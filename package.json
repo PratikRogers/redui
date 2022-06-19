@@ -3,9 +3,7 @@
   "version": "2.1.0",
   "private": true,
   "homepage": "",
-  "proxybk": "https://20.84.224.206:8098/",
-  "proxy": "https://20.84.224.206:8098/",
-  "proxy1": "https://20.84.224.206:8098/",
+  "proxy": "https://20.22.144.172:8098/",
   "dependencies": {
     "-": "^0.0.1",
     "@popperjs/core": "^2.11.5",
